@@ -11,7 +11,7 @@
 </p>
 <p>
     🔨 I love to build web, fixing things, breaking things, and learn everyday ✨.
-    <br>💭 As a <strong>Developer </strong> and <strong>Graphic Designer </strong>, I always develop products with design thinking ⛏️🎨. it makes easier for me to understand user interactions and experiences with the products and concepts they need ✨. Because creativity in design boosts creativity in development 🚀.
+    <br>💭 As a <strong>Developer </strong> and <strong>Graphic Designer </strong>, I always develop products with design thinking ⛏️🎨. It makes easier for me to understand user interactions and experiences with the products and concepts they need ✨. Because creativity in design boosts creativity in development 🚀.
 </p>
 <p>
     ✈️ Been <strong>coding since 2010</strong>. Been <strong>designing since 2008</strong>. And still learning .. 
