@@ -5,16 +5,16 @@
 </p>
 <br>
 <p>
-    Welcome to my page!
-    <br>I'm <strong>Yohan</strong>, another developer from <strong>Jakarta, Indonesia</strong> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-indonesia_1f1ee-1f1e9.png" width="15"/>.
-    <br>Currently working as a <strong>Front-end Develpper</strong> in a state-owned company in Indonesia.
+    👋 Welcome to my page! 
+    <br>🥷 I'm <strong>Yohan</strong>, another developer from <strong>Jakarta, Indonesia</strong> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-indonesia_1f1ee-1f1e9.png" width="15"/>.
+    <br>💼 Currently working as a <strong>Front-end Develpper</strong> in a state-owned company in Indonesia.
 </p>
 <p>
-    I love to build web, fixing things, breaking things, and learn everyday.
-    <br>As a <strong>Developer</strong> and <strong>Graphic Designer</strong>, I always develop products with design thinking. it makes easier for me to understand user interactions and experiences with the products and concepts they need. Because creativity in design boosts creativity in development.
+    🔨 I love to build web, fixing things, breaking things, and learn everyday ✨.
+    <br>💭 As a <strong>Developer </strong> and <strong>Graphic Designer </strong>, I always develop products with design thinking ⛏️🎨. it makes easier for me to understand user interactions and experiences with the products and concepts they need ✨. Because creativity in design boosts creativity in development 🚀.
 </p>
 <p>
-    Been coding since 2010. Been designing since 2008. And still learning .. 
+    ✈️ Been <strong>coding since 2010</strong>. Been <strong>designing since 2008</strong>. And still learning .. 
 </p>
 
 <br>
@@ -53,7 +53,10 @@
 <br>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643516039/20637/meow_nyan.gif?1643516039" width="30"/> Fun Fact</h1>
-<p>If everyone thinks out-of-the-box, they will enter a new box.</p>
+
+> If everyone thinks out-of-the-box 📤, actually they're thinking in another box 📦. 
+>
+> -Psycho Pico
 
 <br>
 
