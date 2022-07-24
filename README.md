@@ -23,6 +23,7 @@
 <p>
     <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-4b3128?style=flat-square&logo=HTML5&logoColor=initial" />
     <img alt="SASS" src="https://img.shields.io/badge/-SASS-4b2841?style=flat-square&logo=SASS&logoColor=initial" />
+    <img alt="LESS" src="https://img.shields.io/badge/-LESS-28374b?style=flat-square&logo=LESS&logoColor=initial" />
     <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-28374b?style=flat-square&logo=CSS3&logoColor=1671b7" />
     <br>
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-4b4528?style=flat-square&logo=JavaScript&logoColor=initial" />
