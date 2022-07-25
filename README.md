@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1643515350/13688/meow_dance.gif?1643515350" width="30"/> Hey There! </h1>
 <p>
-    <a href="https://github.com/psycho-pico" target="_blank"><img src="https://img.shields.io/github/followers/psycho-pico?label=follow&style=flat-square&logo=github&labelColor=21252b" alt="LinkedIn"></a>
+    <a href="https://github.com/psycho-pico" target="_blank"><img src="https://img.shields.io/github/followers/psycho-pico?label=follow&style=flat-square&logo=github&labelColor=21252b" alt="GitHub"></a>
     <a href="https://www.linkedin.com/in/y-p-h/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0a63bc?style=flat-square&logo=LinkedIn" /></a>
 </p>
 <br>
