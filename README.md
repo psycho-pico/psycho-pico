@@ -32,6 +32,8 @@
     <br>
     <img alt="React.js" src="https://img.shields.io/badge/-React.js-28424b?style=flat-square&logo=React&logoColor=initial" />
     <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-28334b?style=flat-square&logo=jQuery&logoColor=0178cc" />
+    <img alt="CoffeeScript" src="https://img.shields.io/badge/-CoffeeScript-4b3828?style=flat-square&logo=CoffeeScript&logoColor=initial" />
+    <br>
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-4b2828?style=flat-square&logo=Laravel&logoColor=ff574e" />
     <img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-4b3128?style=flat-square&logo=CodeIgniter&logoColor=initial" />
     <img alt=".NET Framework" src="https://img.shields.io/badge/-.NET Framework-283d4b?style=flat-square&logo=.NET&logoColor=initial" />
