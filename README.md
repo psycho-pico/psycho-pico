@@ -5,7 +5,7 @@
 </p>
 <br>
 <p>
-    👋 Welcome to my page! 
+    👋 Hello world! 
     <br>🥷 I'm <strong>Yohan</strong>, another developer from <strong>Jakarta, Indonesia</strong> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-indonesia_1f1ee-1f1e9.png" width="15"/>.
     <br>💼 Currently working as a <strong>Front-end Develpper</strong> in a state-owned company in Indonesia.
 </p>
