@@ -1,11 +1,11 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515350/13688/meow_dance.gif?1643515350" width="30"/> Hey There! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643515350/13688/meow_dance.gif?1643515350" width="30"/> Hello world! </h1>
 <p>
     <a href="https://github.com/psycho-pico" target="_blank"><img src="https://img.shields.io/github/followers/psycho-pico?label=follow&style=flat-square&logo=github&labelColor=21252b" alt="GitHub"></a>
     <a href="https://www.linkedin.com/in/y-p-h/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0a63bc?style=flat-square&logo=LinkedIn" /></a>
 </p>
 <br>
 <p>
-    👋 Hello world! 
+    👋 Hey there!
     <br>🥷 I'm <strong>Yohan</strong>, another developer from <strong>Jakarta, Indonesia</strong> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-indonesia_1f1ee-1f1e9.png" width="15"/>.
     <br>💼 Currently working as a <strong>Front-end Develpper</strong> in a state-owned company in Indonesia.
 </p>
