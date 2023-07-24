@@ -10,15 +10,15 @@
 <br>
 <p>
     👋 Hey there!
-    <br>🥷 I'm <strong>Yohan</strong>, another developer from <strong>Jakarta, Indonesia</strong> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-indonesia_1f1ee-1f1e9.png" width="15"/>.
-    <br>💼 Currently working as a <strong>Front-end Develpper</strong> in a state-owned company in Indonesia.
+    <br>👾 I'm <strong>Yohan</strong>, another developer from <strong>Jakarta, Indonesia</strong> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-indonesia_1f1ee-1f1e9.png" width="15"/>.
+    <br>💼 Currently, I work as a Front-end Developer in a state-owned company in Indonesia.
 </p>
 <p>
-    🔨 I love to build web, fixing things, breaking things, and learn everyday ✨.
-    <br>💭 As a <strong>Developer </strong> and <strong>Graphic Designer </strong>, I always develop products with design thinking ⛏️🎨. It makes easier for me to understand user interactions and experiences with the products and concepts they need ✨. Because creativity in design boosts creativity in development 🚀.
+    🔨 I love building web applications, fixing things, breaking things, and learning something new every day ✨.
+    <br>💭 As a Developer and Graphic Designer, I always approach my projects with design thinking ⛏️🎨. This helps me better understand user interactions and create meaningful experiences with the products and concepts they need ✨. Because creativity in design fuels creativity in development 🚀.
 </p>
 <p>
-    ✈️ Been <strong>coding since 2010</strong>. Been <strong>designing since 2008</strong>. And still learning .. 
+    ✈️ I've been coding since 2010 and designing since 2008. And I'm constantly eager to learn and grow in my skills. Let's create something amazing together! 
 </p>
 
 <br>
