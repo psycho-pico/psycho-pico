@@ -9,16 +9,16 @@
 </p>
 <br>
 <p>
-    👋 Hey there!
-    <br>👾 I'm <strong>Yohan</strong>, another developer from <strong>Jakarta, Indonesia</strong> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-indonesia_1f1ee-1f1e9.png" width="15"/>.
-    <br>💼 Currently, I work as a Front-end Developer in a state-owned company in Indonesia.
+    👋 Hey there!  
+    <br>👾 I'm <strong>Yohan</strong>, a passionate developer from <strong>Jakarta, Indonesia</strong> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/325/flag-indonesia_1f1ee-1f1e9.png" width="15"/>.  
+    <br>💼 Currently, I'm working as a Front-end Developer at a state-owned company in Indonesia.
 </p>
 <p>
-    🔨 I love building web applications, fixing things, breaking things, and learning something new every day ✨.
-    <br>💭 As a Developer and Graphic Designer, I always approach my projects with design thinking ⛏️🎨. This helps me better understand user interactions and create meaningful experiences with the products and concepts they need ✨. Because creativity in design fuels creativity in development 🚀.
+    🔨 I thrive on building innovative web applications, troubleshooting, experimenting, and continuously learning new things every day ✨.  
+    <br>💭 With a background in both Development and Graphic Design, I always approach my projects with a design-driven mindset ⛏️🎨. This approach helps me craft intuitive user interactions and create meaningful experiences that resonate with the end user ✨. Because I believe that creativity in design fuels innovation in development 🚀.
 </p>
 <p>
-    ✈️ I've been coding since 2010 and designing since 2008. And I'm constantly eager to learn and grow in my skills. Let's create something amazing together! 
+    ✈️ I’ve been coding since 2010 and designing since 2008, and I’m always hungry to expand my skills and evolve as a creator. Let’s collaborate and build something extraordinary together!
 </p>
 
 <br>
